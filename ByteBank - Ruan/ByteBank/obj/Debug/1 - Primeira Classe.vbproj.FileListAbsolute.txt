@@ -1,0 +1,13 @@
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\bin\Debug\1 - Primeira Classe.exe.config
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\bin\Debug\1 - Primeira Classe.exe
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\bin\Debug\1 - Primeira Classe.pdb
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\bin\Debug\1 - Primeira Classe.xml
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\1 - Primeira Classe.vbprojAssemblyReference.cache
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\_1___Primeira_Classe.Frm_Principal_01.resources
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\_1___Primeira_Classe.Resources.resources
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\1 - Primeira Classe.vbproj.GenerateResource.cache
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\1 - Primeira Classe.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\1 - Primeira Classe.exe
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\1 - Primeira Classe.xml
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\1 - Primeira Classe.pdb
+C:\Users\Caleum\source\repos\OrientacaoObjeto\1 - Primeira Classe\obj\Debug\_1___Primeira_Classe.Frm_Principal_02.resources

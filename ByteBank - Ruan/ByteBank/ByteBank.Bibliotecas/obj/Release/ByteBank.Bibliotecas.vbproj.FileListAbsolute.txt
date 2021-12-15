@@ -1,0 +1,10 @@
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Release\ByteBank.Bibliotecas.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Release\ByteBank.Bibliotecas.pdb
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Release\ByteBank.Bibliotecas.xml
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Release\ByteBank.Bibliotecas.vbprojAssemblyReference.cache
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Release\ByteBank.Bibliotecas.Resources.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Release\ByteBank.Bibliotecas.vbproj.GenerateResource.cache
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Release\ByteBank.Bibliotecas.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Release\ByteBank.Bibliotecas.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Release\ByteBank.Bibliotecas.xml
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Release\ByteBank.Bibliotecas.pdb

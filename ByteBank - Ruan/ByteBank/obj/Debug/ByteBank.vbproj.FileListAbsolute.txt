@@ -1,0 +1,24 @@
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\bin\Debug\ByteBank.xml
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\obj\Debug\ByteBank.Frm_Principal.resources
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\obj\Debug\ByteBank.Resources.resources
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\obj\Debug\ByteBank.vbproj.GenerateResource.cache
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\obj\Debug\ByteBank.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\obj\Debug\ByteBank.xml
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\obj\Debug\ByteBank.pdb
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\bin\Debug\ByteBank.exe.config
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\bin\Debug\ByteBank.exe
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\bin\Debug\ByteBank.pdb
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\bin\Debug\ByteBank.xml
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\obj\Debug\ByteBank.vbprojAssemblyReference.cache
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\obj\Debug\ByteBank.Frm_Principal.resources
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\obj\Debug\ByteBank.Resources.resources
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\obj\Debug\ByteBank.vbproj.GenerateResource.cache
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\obj\Debug\ByteBank.vbproj.CoreCompileInputs.cache
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\obj\Debug\ByteBank.exe
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\obj\Debug\ByteBank.xml
+D:\Victorino Vila\998-vb-net-excecoes\Vídeos\998-vb-net-excecoes-Vídeo4.3-ArgumentException\Download\2 - Projeto fim vídeo\Excecoes\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\Caleum\source\repos\Excecoes\ByteBank\obj\Debug\ByteBank.Frm_Video05.resources

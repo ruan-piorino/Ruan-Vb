@@ -1,0 +1,26 @@
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.Resources.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.vbproj.GenerateResource.cache
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\ByteBank.Bibliotecas.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\ByteBank.Bibliotecas.pdb
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\ByteBank.Bibliotecas.xml
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.xml
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.pdb
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.vbprojAssemblyReference.cache
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\ByteBank.Bibliotecas.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\ByteBank.Bibliotecas.pdb
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\ByteBank.Bibliotecas.xml
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.vbprojAssemblyReference.cache
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.Resources.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.vbproj.GenerateResource.cache
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.vbproj.CoreCompileInputs.cache
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.xml
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.pdb
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\ByteBank.Bibliotecas.dll.config
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\obj\Debug\ByteBank.Bibliotecas.vbproj.CopyComplete
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\MySql.Data.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\Google.Protobuf.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.Bibliotecas\bin\Debug\MySql.Data.xml

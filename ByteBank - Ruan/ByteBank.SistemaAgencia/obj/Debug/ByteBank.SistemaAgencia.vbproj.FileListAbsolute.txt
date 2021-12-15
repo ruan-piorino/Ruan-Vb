@@ -1,0 +1,151 @@
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.xml
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.vbprojAssemblyReference.cache
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Resources.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.vbproj.GenerateResource.cache
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.xml
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Bibliotecas.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Bibliotecas.pdb
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Bibliotecas.xml
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.vbproj.CopyComplete
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\netstandard.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\Humanizer.xml
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\pt\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\af\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ar\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\bg\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\cs\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\da\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\de\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\el\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\es\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\fa\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\fr\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\he\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\hr\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\hu\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\id\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\it\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ja\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\lv\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\nb\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\nl\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\pl\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ro\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ru\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\sk\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\sl\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\sr\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\sv\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\tr\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\uk\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\vi\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\zh-Hant\Humanizer.resources.dll
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_Principal01.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContasCorrentesArray.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContasCorrentesListas.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_TesteLista.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContasCorrentesAgencia.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContasCorrentesAgenciaDic.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_Simulacao.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ManutencaoCCListView.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContaCorrente.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ManutencaoCCDataTable.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContaCorrenteDT.resources
+C:\Users\Caleum\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_EntradaSaida.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.xml
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Bibliotecas.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\netstandard.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Bibliotecas.pdb
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Bibliotecas.xml
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\Humanizer.xml
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\af\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ar\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\bg\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\cs\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\da\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\de\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\el\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\es\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\fa\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\fr\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\he\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\hr\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\hu\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\id\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\it\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ja\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\lv\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\nb\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\nl\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\pl\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\pt\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ro\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ru\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\sk\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\sl\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\sr\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\sv\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\tr\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\uk\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\vi\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\zh-Hant\Humanizer.resources.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.vbprojAssemblyReference.cache
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContaCorrente.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContaCorrenteDT.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContasCorrentesAgencia.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContasCorrentesAgenciaDic.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContasCorrentesArray.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ContasCorrentesListas.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_EntradaSaida.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ManutencaoCCDataTable.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ManutencaoCCListView.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_Principal01.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_Simulacao.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_TesteLista.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Resources.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.vbproj.GenerateResource.cache
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.vbproj.CoreCompileInputs.cache
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.vbproj.CopyComplete
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.xml
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\Banco de Dados\ByteBankDB.mdf
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\Banco de Dados\ByteBankDB_log.ldf
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_Cliente.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.frm_Cliente_SQLServer.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_TesteDB.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ManutencaoClienteDB.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_ManutencaoCC_BD.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Bibliotecas.dll.config
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_TestaDBOracle.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\MySql.Data.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\Google.Protobuf.dll
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\bin\Debug\MySql.Data.xml
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_TestaDBMySQL.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_TesteProviders.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_TestaDBOleDB.resources
+C:\Users\ALURA - FLAMENGO\source\repos\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.Frm_TestaDBODBC.resources
